@@ -1,0 +1,44 @@
+.detail-container{
+    height:300px;
+    /* width: 70%; */
+    margin-left: 200px;
+}
+
+.detail-section{
+    display: flex;
+    background-color: rgb(109, 108, 206);
+    height: 250px;
+    width: 80%; 
+    border-radius: 10px;
+}
+
+.detail-style img{
+    height: 200px;
+    width: 500px; 
+    margin-top: 20px; 
+}
+
+.text-style{
+    color: white;
+    margin-top: 50px;
+
+}
+.description-style{
+    color:rgb(234, 240, 255);
+    
+    margin-left: 150px;
+    text-align: center;
+    width: 80%;
+}
+
+.background-style{
+    background-color: rgb(1, 1, 53);
+}
+
+.footer-style{
+    display: flex;
+    margin-left: 600px;
+    font-size: 40px;
+    color: rgb(80, 80, 172);
+}
+

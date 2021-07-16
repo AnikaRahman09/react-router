@@ -1,0 +1,19 @@
+.team-container{
+    
+    display: flex;
+    margin-top: 20px;
+    padding: 6px;
+    background-color: rgb(1, 1, 53);
+    
+}
+
+.team-body img{
+    width: 30%;
+    
+}
+
+.team-body{
+    padding: 10px;
+    width: auto;
+    text-align: center;
+}

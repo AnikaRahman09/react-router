@@ -1,0 +1,18 @@
+.header-style img{
+    
+    height: 310px;
+    width: 100%;
+}
+.header-style{
+    margin-top: 10px;
+    background-color: rgb(1, 1, 53);
+    
+}
+
+.text-style{
+    margin-top: 120px;
+}
+
+.overlay-style{
+    background-color: rgba(245, 245, 245, 0.199);
+}
